@@ -5,6 +5,10 @@ I am thrilled to share that I am attending a **9-day DSA Bootcamp** organized by
 
 # 🌟 Bootcamp Learning Journey
 
+## 🛠️ Technologies Used
+- **C Programming Language**
+- **GCC Compiler**
+
 📚 **What I Learned in Bootcamp:**
 
 ## 🗓️ Day 1
@@ -66,5 +70,28 @@ I am thrilled to share that I am attending a **9-day DSA Bootcamp** organized by
     - ➕ **Insert at End**: Adds an element at the end.
     - ➖ **Delete**: Removes a specific element.
     - 📜 **Display**: Shows all elements in both directions.
+
+## 🗓️ Day 4
+
+# 🌳 Binary Search Tree (BST) Operations in C
+
+This project demonstrates the basic operations of a **Binary Search Tree (BST)** using the C programming language. A Binary Search Tree is a hierarchical data structure where each node has at most two children, and for each node, the left subtree contains nodes with values less than the node's value, and the right subtree contains nodes with values greater than the node's value.
+
+## 🚀 Features  
+The project includes the following operations:
+1. **Insertion**: Add a new node to the BST.
+2. **Deletion**: Remove a node from the BST.
+3. **Traversal**: Display the tree in three different ways:
+   - **Inorder** Traversal: Left, Root, Right
+   - **Preorder** Traversal: Root, Left, Right
+   - **Postorder** Traversal: Left, Right, Root
+
+## 🔧 How to Use
+
+1. **Clone the repository** to your local machine:
+   ```bash
+   git clone https://github.com/your-username/bst-operations.git
+
+
 
 ---
