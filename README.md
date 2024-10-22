@@ -71,9 +71,9 @@ I am thrilled to share that I am attending a **9-day DSA Bootcamp** organized by
     - ➖ **Delete**: Removes a specific element.
     - 📜 **Display**: Shows all elements in both directions.
 
-## 🗓️ Day 4
+## 🗓️ Day 6
 
-# 🌳 Binary Search Tree (BST) Operations in C
+# 🌳 Binary Search Tree (BST) Operations 
 
 This project demonstrates the basic operations of a **Binary Search Tree (BST)** using the C programming language. A Binary Search Tree is a hierarchical data structure where each node has at most two children, and for each node, the left subtree contains nodes with values less than the node's value, and the right subtree contains nodes with values greater than the node's value.
 
