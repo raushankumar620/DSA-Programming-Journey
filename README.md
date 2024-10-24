@@ -92,6 +92,44 @@ The project includes the following operations:
    ```bash
    git clone https://github.com/your-username/bst-operations.git
 
+## 🗓️ Day 7
+### Graph Representation in C:
+- 🌐 **Concepts Covered**: Understanding graph representation using **adjacency matrix** and **adjacency list**.
+- 🔄 **Key Operations**: Adding edges, displaying the graph.
 
+### Depth-First Search (DFS) Implementation:
+- 🧗‍♂️ **Concepts Covered**: Traversing a graph using **DFS**.
+- 🔄 **Key Operations**: Recursive and iterative implementations.
+
+## 🗓️ Day 8
+### Sorting Algorithms:
+- **Bubble Sort Algorithm**:
+  - 💡 **Concepts Covered**: Basic sorting technique using nested loops.
+
+- **Merge Sort Algorithm**:
+  - 💡 **Concepts Covered**: Divide and conquer technique for sorting.
+  
+- **QuickSort Algorithm**:
+  - 💡 **Concepts Covered**: Efficient sorting using partitioning.
+
+### Search Algorithms:
+- **Linear Search Algorithm**:
+  - 💡 **Concepts Covered**: Simple search technique through sequential access.
+
+- **Efficiently Finding Elements in a Sorted Array**:
+  - 💡 **Concepts Covered**: Utilizing binary search techniques for faster lookups.
+
+### Graph Algorithms:
+- **Graph Representation Using Adjacency List**:
+  - 💡 **Concepts Covered**: Efficiently representing graphs for traversal and manipulation.
+
+- **Dijkstra's Algorithm for Shortest Path**:
+  - 💡 **Concepts Covered**: Finding the shortest path in a weighted graph.
+
+- **Constructing Minimum Spanning Tree Using Kruskal's Algorithm**:
+  - 💡 **Concepts Covered**: Finding MST using edge sorting and union-find.
+
+- **Structure of Graph and Node Representation**:
+  - 💡 **Concepts Covered**: Understanding the fundamental structure for graph nodes.
 
 ---
